@@ -2,7 +2,7 @@
 	<title>Accueil - Stream Overlay</title>
 </svelte:head>
 
-<h1>Bienvenue sur mon Stream</h1>
+<h1>Les overlays</h1>
 <div class="content">
 	<p>Découvrez mes contenus et rejoignez la communauté !</p>
 </div>
